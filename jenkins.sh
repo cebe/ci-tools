@@ -11,3 +11,5 @@ adduser jenkins docker
 echo "install plugins:"
 echo "- Github"
 echo "- Github pull request"
+echo "- AnsiColor Plugin"
+echo "- Post build task"
