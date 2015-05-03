@@ -13,3 +13,6 @@ echo "- Github"
 echo "- Github pull request"
 echo "- AnsiColor Plugin"
 echo "- Post build task"
+echo ""
+echo "Follow the steps at http://superuser.com/questions/701032/jenkins-listens-on-weird-ports/701068 to close useless ports."
+
